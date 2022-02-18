@@ -1,0 +1,60 @@
+*
+{
+    font-family: 'Ubuntu', sans-serif;
+    margin: 10px; 
+    <-background-color:#fff9f9 ;
+}
+
+body{
+    margin: 10px;
+    padding: 10px 20px;
+}
+
+.logo{
+    margin-left: 100px;
+}
+.Hero{
+    margin-top: -220px;
+    padding-left: 800px;
+    padding-top: -20px;
+    position: fixed;
+}
+ 
+.Shoppers
+{
+    margin-left: 100px;
+    margin-top: 300px;
+    font-size: x-large;
+    outline: 1px;
+    position: fixed;
+    font-weight: 5000;
+    line-height:40px;
+    color: rgb(229,203,204) ;
+}
+
+.a , .w  {
+    margin-left: 100px;
+}
+
+.w{
+    color: rgba(200, 156, 155, 255);
+    font-weight: 200;
+    font-size: 200%;
+    text-indent: 0%;
+    letter-spacing: 20px; 
+}
+
+.a{
+    font-weight:1000;
+    font-size: 200%;
+    text-indent: 0%;
+    letter-spacing: 20px; 
+}
+
+button{
+    border-color: rgba(229,203,204,255);
+}
+
+.Put{
+    margin-left: 100px;
+}
